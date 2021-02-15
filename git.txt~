@@ -1,0 +1,3 @@
+
+git-init -> Create an empty Git repository
+git-add  -> Add file to index (staging-area / dev_area)

@@ -1,0 +1,14 @@
+
+git-init      -> Create an empty Git repository
+git-add       -> Add file to index (staging-area / dev_area)
+git-commit    -> Record changes to the repository
+
+git-commit -am "commentary"  -> Add to dev_area and commit
+git-commit --amend -> EDIT commentary
+
+git status -s -> verify status (not in reppository)
+git commit -m "commentary"
+git-log --oneline -> Log all copies (commit)
+
+git-reset --hard {code} -> go to backup
+
